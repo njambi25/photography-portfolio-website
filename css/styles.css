@@ -3,12 +3,33 @@
   width: 450px ;
   font-style: italic;
   color: #FAE5D3 ;
-
-
 }
 body{
   background-color: #17202A;
 }
 .About{
   color: #FAE5D3;
+
+}
+.text-box {
+  border: 1px ;
+  padding: 6px;
+  margin: 20px;
+  background-color: #5B2C6F;
+}
+.text-box1 {
+  border: 1px ;
+  padding: 6px;
+  margin: 20px;
+  background-color: #5B2C6F;
+}
+.text-box2 {
+  border: 1px ;
+  padding: 6px;
+  margin: 20px;
+  background-color: #5B2C6F;
+}
+img{
+  width: 100% ;
+
 }
