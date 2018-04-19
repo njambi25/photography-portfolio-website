@@ -1,0 +1,13 @@
+.column{
+  float: left ;
+  width: 450px ;
+  font-style: italic;
+  color: #FAE5D3 ;
+
+}
+body{
+  background-color: #17202A;
+}
+.About{
+  color: #FAE5D3;
+}
